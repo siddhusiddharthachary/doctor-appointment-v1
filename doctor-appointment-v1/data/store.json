@@ -1,0 +1,14 @@
+{
+  "doctor": {
+    "id": 1,
+    "name": "Dr. Ravi Kumar",
+    "specialization": "General Physician",
+    "slug": "dr-ravi"
+  },
+  "availability": {
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "slotDuration": 15
+  },
+  "appointments": []
+}
